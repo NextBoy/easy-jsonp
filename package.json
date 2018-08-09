@@ -1,0 +1,8 @@
+{
+  "name": "easy-jsonp",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": {
+    "server": "node jsonp-server/app"
+  }
+}
